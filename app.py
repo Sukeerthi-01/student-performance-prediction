@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-MODEL_PATH = Path("student_performance_model.pkl")
+MODEL_PATH = Path("student_performance_model_fixed.pkl")
 
 st.title("🎓 Student Performance Prediction")
 st.write(
