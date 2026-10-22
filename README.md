@@ -39,3 +39,9 @@ The project uses a Random Forest Classifier trained on student academic data. Th
 
 ## Screenshots
 Project screenshots can be added here to demonstrate the application interface and prediction results.
+
+<img width="987" height="782" alt="image" src="https://github.com/user-attachments/assets/7f5200ae-7233-4354-9fd4-59b454a2a426" />
+
+<img width="1012" height="647" alt="image" src="https://github.com/user-attachments/assets/b429db55-cad8-4df4-bf7d-98b85dbb114b" />
+
+
